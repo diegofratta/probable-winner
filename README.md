@@ -12,7 +12,7 @@
        * GitHub username 3: LittleBug2018      name 3: Tim Shen
        * GitHub username 4: gabrielgozum      name 4: Gabriel Gozum
    * When did you complete this exercise? 
-   At 8:30 10/23/2018
+   At 8:30PM 10/23/2018
    * How long did it take your team to complete this exercise? 
    1 hour
 
