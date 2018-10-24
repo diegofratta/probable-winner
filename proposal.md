@@ -50,7 +50,7 @@ WindowSeat1 has 4 people in line.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-
+The administrator will input the amount of tables  and seats available at those tables. Then the students will input where they would like to sit and if they are apart of a group.
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
