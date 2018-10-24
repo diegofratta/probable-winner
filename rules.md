@@ -28,9 +28,9 @@ and to have more time to complete the task.
 
 ## How we will back up each other to ensure that deadlines are not missed
 
-We will have check-ins in our group chat about everyone's tasks
+We will have check-ins in our group chat about everyone's tasks.
 
 ## Add any other rules that your team establishes to help each other work effectively together
 
-We will all be team players, never afraid to ask for help or give help to each other
+We will all be team players, never afraid to ask for help or give help to each other.
 
