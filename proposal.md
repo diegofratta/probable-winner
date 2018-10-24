@@ -54,7 +54,7 @@ The administrator will input the amount of tables  and seats available at those 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
-
+We will use graphic user interface that display the layout of each floor in College Library (including details about tables near windows and and size of of table). For example, use circle and squares to represent the desks and seats that already get occupied. And people can pick out the blank spots where there are seats available. 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
