@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 58 Project Proposal: College Library People Sorter
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -36,11 +36,17 @@ Describe at a high level a program that could solve that problem.
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
+College Library People Sorter
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
+The program will output a list of available tables and tables that with wait lines.
 
+Example output format:
+Table1 is open with 4 spots
+Table2 is open with 1 spot
+WindowSeat1 has 4 people in line.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
