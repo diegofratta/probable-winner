@@ -45,7 +45,9 @@ The program will output a list of available tables and tables that with wait lin
 
 Example output format:
 Table1 is open with 4 spots
+
 Table2 is open with 1 spot
+
 WindowSeat1 has 4 people in line.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
