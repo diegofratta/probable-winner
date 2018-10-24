@@ -29,8 +29,8 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+College Library is one of the most popular libraries on campus, and at busy times it is very hard to find a seat. 
+A College Library People Sorter can sort through open seats in the library and place groups and people throughout the library to maximize the filling of the library.
 
 ## Questions to answer for Exercise #2
 
