@@ -59,8 +59,11 @@ We will use graphic user interface that display the layout of each floor in Coll
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
 Group class: Will contain general user information, such as group size, table preferences, willingness to share a table. Table preferences will be options for a windowseat, outlet availability, and location preferences.
+
 Floorplan class: Will contain the number of tables and seats in the library, as well as the number of window seats and outlet seats.
+
 Test class: Will contain tests that test the general functionality of the solution to our problem.
+
 Queue class: Will contain the data structure to decide where groups are placed in the library, as well as wait times for specialty seats.
 
 
