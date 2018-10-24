@@ -44,6 +44,7 @@ College Library People Sorter
 The program will output a list of available tables and tables that with wait lines.
 
 Example output format:
+
 Table1 is open with 4 spots
 
 Table2 is open with 1 spot
