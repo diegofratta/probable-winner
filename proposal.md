@@ -69,6 +69,10 @@ Test class: Will contain tests that test the general functionality of the soluti
 
 Queue class: Will contain the data structure to decide where groups are placed in the library, as well as wait times for specialty seats.
 
+GUI class: Displays the floorplan to the screen, allows user to click on it to provide info the program
+
+Main class: Will call other functions that run the program in infinite loop, takes user inputs.
+
 
 
 Name each interface or class and briefly describe its function or purpose.
